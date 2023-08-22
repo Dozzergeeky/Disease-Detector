@@ -1,0 +1,47 @@
+CREATE DATABASE disease_spv;
+use disease_spv;
+
+CREATE TABLE user_history (
+    username VARCHAR(100) NOT NULL,
+    name VARCHAR(100),
+    age VARCHAR(100),
+    gender VARCHAR(100),
+    blood_group VARCHAR(100),
+    pre_disease1 VARCHAR(100),
+    pre_disease2 VARCHAR(100),
+    pre_disease3 VARCHAR(100),
+    PRIMARY KEY (username)
+);
+
+CREATE TABLE diseasetb (
+    disease VARCHAR(100) NOT NULL,
+    symptom1 VARCHAR(100),
+    symptom2 VARCHAR(100),
+    symptom3 VARCHAR(100),
+    symptom4 VARCHAR(100),
+    symptom5 VARCHAR(100),
+    symptom6 VARCHAR(100),
+    PRIMARY KEY (disease)
+);
+
+DELETE FROM diseasetb;
+
+csv_to_mysql.py
+
+SELECT * FROM diseasetb
+WHERE symptom1 = 'itching'
+AND symptom2= ' skin_rash'
+AND symptom3 = ' nodal_skin_eruptions'
+;
+
+SELECT disease FROM diseasetb
+WHERE 'itching' IN (symptom1, symptom2, symptom3)
+AND ' skin_rash' IN (symptom1, symptom2, symptom3)
+AND ' nodal_skin_eruptions' IN (symptom1, symptom2, symptom3)
+
+
+CREATE TABLE symptomtb (
+    symptom VARCHAR(100) NOT NULL,
+    weight INT,
+    PRIMARY KEY (symptom)
+);

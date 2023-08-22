@@ -1,0 +1,106 @@
+﻿Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6
+(Vertigo) Paroymsal  Positional Vertigo,vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness
+Acne,skin_rash,pus_filled_pimples,blackheads,scurring,,
+Aids,muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts,,
+Alcoholic Hepatitis,vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption
+Allergy,continuous_sneezing,shivering,chills,watering_from_eyes,,
+Arthritis,muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking,
+Asthma,cough,breathlessness,fast_heart_rate,,,
+Atrial Fibrillation,chest_pain,dizziness,fatigue,weakness_in_limbs,fast_heart_rate,
+Blastomycosis,high_fever,cough,sweating,chest_pain,muscle_pain,
+Bronchial Asthma,fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum
+Bronchiolitis,breathlessness,dehydration,loss_of_appetite,congestion,,
+Bulimia Nervosa,fatigue,weight_loss,constipation,excessive_hunger,,
+Candidiasis,headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration,
+Cervical Spondylosis,back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance,
+Chicken Pox,itching,skin_rash,fatigue,lethargy,high_fever,headache
+Chlamydia,pain_during_bowel_movements,abnormal_vaginal_discharge,spotting_urination,,,
+Cholera,vomiting,sunken_eyes,dehydration,diarrhoea,,
+Chronic Cholestasis,itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain
+Common Cold,continuous_sneezing,chills,fatigue,cough,high_fever,headache
+Covid,high_fever,cough,sore_throat,headache,diarrhoea,
+Dengue,skin_rash,chills,joint_pain,vomiting,fatigue,high_fever
+Diabetes ,fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision
+Dimorphic Hemmorhoids(Piles),constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus,
+Diphtheria,swelled_lymph_nodes,chills,fatigue,sore_throat,,
+Drug Reaction,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,
+Ebola,abdominal_pain,chills,diarrhoea,dehydration,,
+Epilepsy,fatigue,headache,anxiety,mood_swings,,
+Fasciitis,fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision
+Fasciolopsis,abdominal_pain,diarrhoea,vomiting,high_fever,,
+Folliculitis,itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain
+Food Poisoning,nausea,vomiting,stomach_pain,indigestion,,
+Fungal Infection,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,,
+Fungal Meningitis,fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum
+Gastroenteritis,vomiting,sunken_eyes,dehydration,diarrhoea,,
+Gerd,stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain
+Giardiasis,abdominal_pain,diarrhoea,nausea,vomiting,loss_of_appetite,
+Glanders,chills,sweating,chest_pain,headache,,
+Gnathostomiasis,diarrhoea,nausea,vomiting,,,
+Gonorrhea,abdominal_pain,abnormal_vaginal_discharge,high_fever,sore_throat,,
+Gout,joint_pain,red_spots_over_body,swelling_joints,,,
+Heart Attack,vomiting,breathlessness,sweating,chest_pain,,
+Hepatitis A,joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite
+Hepatitis B,itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite
+Hepatitis C,fatigue,yellowish_skin,nausea,loss_of_appetite,family_history,
+Hepatitis D,joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea
+Hepatitis E,joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine
+Herpes,pelvic_pain,skin_rash,high_fever,,,
+Hypertension ,headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration,
+Hyperthyroidism,fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea
+Hypoglycemia,vomiting,fatigue,anxiety,sweating,headache,nausea
+Hypothyroidism,fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness
+Impetigo,skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze,
+Inflammatory Bowel Disease (Ibd),acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck
+Influenza,cough,dehydration,fatigue,runny_nose,congestion,
+Jaundice,itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin
+Kawasaki Syndrome ,chills,vomiting,high_fever,sweating,headache,nausea
+Keratitis,back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance,
+Kernicterus,vomiting,headache,weakness_of_one_body_side,altered_sensorium,,
+Kidney Disease,itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin
+Lead Poisoning,itching,skin_rash,fatigue,lethargy,high_fever,headache
+Lymphoma,itching,skin_rash,nodal_skin_eruptions,weight_loss,,
+Malaria,chills,vomiting,high_fever,sweating,headache,nausea
+Measles,muscle_weakness,high_fever,fatigue,loss_of_appetite,runny_nose,
+Meningitis,back_pain,high_fever,restlessness,loss_of_appetite,,
+Microsporidia,skin_rash,chills,joint_pain,vomiting,fatigue,high_fever
+Migraine,acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck
+Molluscum,chills,vomiting,fatigue,high_fever,nausea,constipation
+Monkeypox,fatigue,weight_loss,constipation,excessive_hunger,,
+Mumps,cough,breathlessness,fast_heart_rate,,,
+Myiasis,fatigue,headache,anxiety,mood_swings,,
+Nocardiosis,cough,dehydration,fatigue,runny_nose,congestion,
+Norovirus Infection,abdominal_pain,diarrhoea,nausea,vomiting,loss_of_appetite,
+Onchocerciasis,back_pain,high_fever,restlessness,loss_of_appetite,,
+Osteoarthristis,joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking
+Parainfluenza,chest_pain,dizziness,fatigue,weakness_in_limbs,fast_heart_rate,
+Paralysis (Brain Hemorrhage),vomiting,headache,weakness_of_one_body_side,altered_sensorium,,
+Peptic Ulcer Diseae,vomiting,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching,
+Pinworm Infection,muscle_weakness,high_fever,fatigue,loss_of_appetite,runny_nose,
+Pneumococcal,itching,skin_rash,nodal_skin_eruptions,dischromic _patches,,
+Pneumonia,chills,fatigue,cough,high_fever,breathlessness,sweating
+Polio,high_fever,fatigue,muscle_weakness,nausea,,
+Pontiac Fever,stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain
+Poxvirus,continuous_sneezing,shivering,chills,watering_from_eyes,,
+Psoriasis,skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails
+Rabies,muscle_pain,dizziness,fatigue,irritability,,
+Rickettsial,itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain
+River Blindness,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,
+Rotavirus,vomiting,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching,
+Sleep Apnea,depression,drying_and_tingling_lips,fatigue,mood_swings,,
+Streptococcal Pharyngitis,sore_throat,nausea,vomiting,high_fever,headache,
+Swine Flu,muscle_pain,fatigue,chills,breathlessness,headache,
+Tape Worm,itching,skin_rash,stomach_pain,burning_micturition,spotting_ urination,
+Tetanus,vomiting,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching,
+Tourette Syndrome,muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts,,
+Trichuriasis,fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision
+Tuberculosis,chills,vomiting,fatigue,weight_loss,cough,high_fever
+Typhoid,chills,vomiting,fatigue,high_fever,nausea,constipation
+Urinary Tract Infection,burning_micturition,bladder_discomfort,foul_smell_of urine,continuous_feel_of_urine,,
+Varicose Veins,fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels
+Von Willebrand Disease,vomiting,sunken_eyes,dehydration,diarrhoea,,
+Yeast Infection,fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum
+Yellow Fever,muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts,,
+Yersinia Pestis,headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration,
+Yersiniosis ,acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck
+Zoonotic Hookworm,back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance,
