@@ -6,7 +6,6 @@ Disease Detector is a machine learning project that uses data analysis and predi
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
